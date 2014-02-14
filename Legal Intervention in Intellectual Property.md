@@ -22,3 +22,20 @@ The Case for a Legal Intervention Institution in IP
 * examples of inadequacy that would better be solved by intervention than by efforts of change (by legislation or judicial intervention)
     * when IP law produces gross harms or costs, or is clearly unjust
     * when IP law prevents great benefits
+    * 
+
+# copyright
+## when it's superior to fair use or fair dealing
+* not necessarily small scale reductions in the power of the "rights holder". 
+can be large ones
+* different normative weight for intervention; it is clear declaration that it is right to lessen the power of the rights holder
+
+
+## when it's superior to obligatory license
+license is a wrong term to use when the terms are not defined by the rights holder.
+
+## all IP
+a change in the law is not desirable, but it is must to reach "the right" outcome 
+
+## the law becomes relevant in circumstnaces that are usually not occupied by legal agents
+for instance!!! it is beautiul that online creative environments tick without the actors being made into legal agents. Think Flickr, YouTube. Why should we encourage IP licensing in those situations? 
