@@ -38,4 +38,12 @@ license is a wrong term to use when the terms are not defined by the rights hold
 a change in the law is not desirable, but it is must to reach "the right" outcome 
 
 ## the law becomes relevant in circumstnaces that are usually not occupied by legal agents
-for instance!!! it is beautiul that online creative environments tick without the actors being made into legal agents. Think Flickr, YouTube. Why should we encourage IP licensing in those situations? 
+for instance!!! it is beautiul that online creative environments tick without the actors being made into legal agents. Think Flickr, YouTube. Why should we encourage IP licensing in those situations?
+
+## the remedy can be far more extensive when you don't need to treat it as a precedence! 
+
+### why does it need to be an institution?
+obviousness of legitimacy
+possibility of legislating when the "experiment" turned out to be superior to the legal status quo
+a process
+professionals aking decisions. 
