@@ -17,7 +17,7 @@ I'd like to continue working with Niva
 * Law is often inflexible, tight neat around IP convention
 * A de fact consideration: The rhetoric of the rights of the author is so strong and it is very hard to find exceptions to it. An intervention to correct gross injustice after, obviously, an adequate institutional process is much easier. 
     
-* we have an intitutive understanding of when the law is illfit in IP so it is much easier to define reasons and process for intervention. 
+* we have an intitutive understanding of when the law is ill-fit in IP so it is much easier to define reasons and process for intervention. 
 
 * examples of inadequacy that would better be solved by intervention than by efforts of change (by legislation or judicial intervention)
     * when IP law produces gross harms or costs, or is clearly unjust
