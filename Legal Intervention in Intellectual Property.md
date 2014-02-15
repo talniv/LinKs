@@ -2,13 +2,12 @@
 I'd like a teken
 I'd like to continue working with Niva
 
-### Topic
-
-The Case for a Legal Intervention Institution in IP
+### Topic: The Case for a Legal Intervention Institution in IP
 
 **The mainstay is the fact of intervention, not the type of intervention**
 
-* when is legal intervention advantageous
+#### when is legal intervention advantageous?
+* Creative environments are, by nature, in flux
     * the law will never be able to catch up with develoopments in creative environments
     * lag is inherent in law, because of the legal processs, and because of the way that the law evolves and changes
     * the rhetoric about legacy IP laws that do not accommodate a changing world is fruitless because it always hits a * road block in "the next moment" that it is always inadequate to accommodate
