@@ -10,7 +10,7 @@ I'd like to continue working with Niva
 * Creative environments are, by nature, in flux
     * the law will never be able to catch up with develoopments in creative environments
     * lag is inherent in law, because of the legal processs, and because of the way that the law evolves and changes
-    * the rhetoric about legacy IP laws that do not accommodate a changing world is fruitless because it always hits a * road block in "the next moment" that it is always inadequate to accommodate
+    * legacy IP laws rhetoric that doesn't fit the new tech world is fruitless because every legal change becomes legacy because technology is perpetum mobile.
     * ex post correction in creative environments whose nature is progress in content and structure
     * an added benefit: "in vivo" experimentation of the legal *prescription*
 * it is much more genuine to admit that there is intervention rather than stretch the truth in cases like eBay v. Merck
