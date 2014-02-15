@@ -15,7 +15,8 @@ I'd like to continue working with Niva
     * an added benefit: "in vivo" experimentation of the legal *prescription*
 * it is much more genuine to admit that there is intervention rather than stretch the truth in cases like eBay v. Merck
 * Law is often inflexible, tight neat around IP convention
-* A de fact consideration: The rhetoric of the rights of the author is so strong and it is very hard to find exceptions to it. An intervention to correct gross injustice after, obviously, an adequate institutional process is much easier. 
+* A de fact consideration: The rhetoric of the rights of the author is so strong and it is very hard to find exceptions to it. An intervention to correct gross injustice after, obviously, an adequate institutional process is much easier.
+* not tinged by lobbyists of powerful entities. 
     
 * we have an intitutive understanding of when the law is ill-fit in IP so it is much easier to define reasons and process for intervention. 
 
@@ -47,3 +48,9 @@ obviousness of legitimacy
 possibility of legislating when the "experiment" turned out to be superior to the legal status quo
 a process
 professionals aking decisions. 
+
+## What institution should it be? 
+* agency
+* international agency
+* experts in each IP domain
+* experts of the industry
