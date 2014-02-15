@@ -11,18 +11,18 @@ The Case for a Legal Intervention Institution in IP
 * when is legal intervention advantageous
     * the law will never be able to catch up with develoopments in creative environments
     * lag is inherent in law, because of the legal processs, and because of the way that the law evolves and changes
-    * the rhetoric about legacy IP laws that do not accommodate a changing world is fruitless because it always hits a road block in "the next moment" that it is always inadequate to accommodate
+    * the rhetoric about legacy IP laws that do not accommodate a changing world is fruitless because it always hits a * road block in "the next moment" that it is always inadequate to accommodate
     * ex post correction in creative environments whose nature is progress in content and structure
     * an added benefit: "in vivo" experimentation of the legal *prescription*
     * 
-    * 
+* it is much more genuine to admit that there is intervention rather  
     
 * we have an intitutive understanding of when the law is illfit in IP so it is much easier to define reasons and process for intervention. 
 
 * examples of inadequacy that would better be solved by intervention than by efforts of change (by legislation or judicial intervention)
     * when IP law produces gross harms or costs, or is clearly unjust
     * when IP law prevents great benefits
-    * 
+        * successful software projects
 
 # copyright
 ## when it's superior to fair use or fair dealing
