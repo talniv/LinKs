@@ -14,8 +14,9 @@ The Case for a Legal Intervention Institution in IP
     * the rhetoric about legacy IP laws that do not accommodate a changing world is fruitless because it always hits a * road block in "the next moment" that it is always inadequate to accommodate
     * ex post correction in creative environments whose nature is progress in content and structure
     * an added benefit: "in vivo" experimentation of the legal *prescription*
-    * 
-* it is much more genuine to admit that there is intervention rather  
+* it is much more genuine to admit that there is intervention rather than stretch the truth in cases like eBay v. Merck
+* Law is often inflexible, tight neat around IP convention
+* A de fact consideration: The rhetoric of the rights of the author is so strong and it is very hard to find exceptions to it. An intervention to correct gross injustice after, obviously, an adequate institutional process is much easier. 
     
 * we have an intitutive understanding of when the law is illfit in IP so it is much easier to define reasons and process for intervention. 
 
