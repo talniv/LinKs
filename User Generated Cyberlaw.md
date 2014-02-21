@@ -50,3 +50,5 @@ Use the power of the OSP to grant an organizational infrastructure to user decis
 ### Use Cases
 #### Government agency requests for user information
 this will buttress the rights of OSPs in front of government. 
+
+#### The Story of the public repository TOS
