@@ -30,6 +30,7 @@ Request for Information
 Online service providers, but when they are creating policies, they need to take into consideration their users. In other words, this would be inclusive.
 
 Multi-jurisdictions (the magnusson copyright stealth) interests are brought into consideration. 
+it is the only thing to do to allow that. 
 
 It's true that some users are more important than others, but not in all profit models. 
 
@@ -39,6 +40,11 @@ Use the power of the OSP to grant an organizational infrastructure to user decis
     1. to create a decision-making super-structure
     2. To have a clear policy about how to accept user and implement user change
     3. Broadcast power of changes + Continuous access to current policy and ongoing discussion.
-2. 
+2. The decision power of users?
+    1. Ongoing. Like every content, policy content. 
+    2. Meritocratic, or based on activity level or any other built in hierarchy.  
+    3. Not open and shut for participation but always open. 
+        1. not like mozilla or wikipedia
+        2. 
 
 
