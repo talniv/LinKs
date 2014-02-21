@@ -12,6 +12,7 @@
 * I want to see how users of the websites can impact the law.  
 * Okay: Let's say as follows - users should be allowed to make law as follows: Private OSP policy in Privacy/TM/Copyright/Ownership conflicts/Deceased/Transfers of IPs 
 * This is a space that **requires predictability and certainty**, and cannot be tweaked.
+* Policies are Contracts and terms and guidelines are the new Copyright/TM/Privacy Law/Data Law in cyber space. 
 
 ## Comments to Niva and Orit
 * The problem with Cyberlaw Fair Use Codes is the locality of Fair Use doctrine.
