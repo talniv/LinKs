@@ -15,7 +15,7 @@
 
 ## Comments to Niva and Orit
 * The problem with Cyberlaw Fair Use Codes is the locality of Fair Use doctrine.
-    * meaningful 
+* The other problem is that it requires central coordination. And i don't want that in the traditional way for Cyberspace because it gives all the power to the OSP, or to Facebook and its likes.  
 
 ## Storytelling
 Trademark Policy
