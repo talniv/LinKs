@@ -47,4 +47,6 @@ Use the power of the OSP to grant an organizational infrastructure to user decis
         1. not like mozilla or wikipedia
         2. 
 
-
+### Use Cases
+#### Government agency requests for user information
+this will buttress the rights of OSPs in front of government. 
