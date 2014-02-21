@@ -31,4 +31,12 @@ Multi-jurisdictions (the magnusson copyright stealth) interests are brought into
 
 It's true that some users are more important than others, but not in all profit models. 
 
+## What is the Law-making process?
+Use the power of the OSP to grant an organizational infrastructure to user decision.
+1. The LEGAL obligation of the OSP is:
+    1. to create a decision-making super-structure
+    2. To have a clear policy about how to accept user and implement user change
+    3. Broadcast power of changes + Continuous access to current policy and ongoing discussion.
+2. 
+
 
