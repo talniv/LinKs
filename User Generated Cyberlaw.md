@@ -10,6 +10,9 @@ As you say, Fair Use Best Practices reflect a normative stance; a shared underst
 ## Presumptions
 * The problematic situation is not that where there is a group, librarians, script writers, etc. it's the case where there is no group initially. In other words, these are situation where there is no real "best practice" that exists ex ante. In other words, the best practice needs to be created. This is User Generated Regulation. 
 * The point about the commons: it is like a knowledge commons, but an organizational commons. 
+* the issue is that there is no industry standard, but this also means that there is less the challenge of the lack of objectivity, like the Robinson issue that you are discussing in your paper. Decentralized decision making. Merit based decision making. code custodians. 
+* the duty of the OSP would be to frame an organizational infrastructure for decision that doesn't "perpetuate relations and block legal mobility". This is the part that should become standard. 
+* Obviousy, when all users follow the same practice, because it is part of their professional life, etc. then it's no trouble at all. here there needs to be a creation of a decisional aparatus that will be interepreted as a civic duty. We can't have a situation where a court will be able to say that only large stakeholders decided.
 * In some cases, we don't have a policy 
 * it is a situation that needs to bear the fruit of commons regulation, and there is no basis for group agency. 
 * Online Social Activism is not just Online Social Activism, it is political activism. They are not just private regulation or private policy making, or community activism or self regulation. They are a form 
@@ -56,6 +59,9 @@ Use the power of the OSP to grant an organizational infrastructure to user decis
         2. 
 
 ### Use Cases
+#### Public Repo for participation. Decisions of merge. The Wikipedia decision process. EPA and what's considered a legitimate notice period for a regulatory agency's regulatory decisions
+
+### What can the OSP do? Suggest a range of policies. Explain the stakes for each. 
 #### Government agency requests for user information
 this will buttress the rights of OSPs in front of government. 
 
