@@ -2,6 +2,7 @@
 # User Generated Cyberlaw
 # Commons Regulation
 
+I'm talking about the 
 As you say, Fair Use Best Practices reflect a normative stance; a shared understanding regarding the appropriate scope of fair use within a particular community regarding a particular area of practice. 
 
 ## Taking Users' Legal Agency to the Next Level
@@ -58,7 +59,15 @@ Use the power of the OSP to grant an organizational infrastructure to user decis
         1. not like mozilla or wikipedia
         2. 
 
-### Use Cases
+## Use Cases
+### Fair Use in Copyright
+### "Fair Use" in TM
+### Take Down Policy
+### TM Take down policy
+### Account ownership policy
+### User IP Policy
+### 
+### Cyber Security and Information Requests from Government
 #### Public Repo for participation. Decisions of merge. The Wikipedia decision process. EPA and what's considered a legitimate notice period for a regulatory agency's regulatory decisions
 
 ### What can the OSP do? Suggest a range of policies. Explain the stakes for each. 
