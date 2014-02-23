@@ -1,10 +1,12 @@
 # User Generated Copyright
 # User Generated Cyberlaw
+# Commons Regulation
 
 ## Taking Users' Legal Agency to the Next Level
 ## Or how to incorporate Users preferences in stringent IP doctrine
 
 ## Presumptions
+* Online Social Activism is not just Online Social Activism, it is political activism. They are not just private regulation or private policy making, or community activism or self regulation. They are a form 
 * It's not sufficiently interesting to say that the guidelines and terms and policies of OSPs should be written in Copyright law or change policy, because many have said this before
 * I wouldn't want to give such power to Google and Facebook. YUCK. Make them change policy for real. 
 * Still, this is not Niva's and Orit's point. Instead, their point is that okay FAIR USE codes should be part of FAIR USE ANALYSIS and they hinge that on the fact that the law needs to maintain its flexibility. 
