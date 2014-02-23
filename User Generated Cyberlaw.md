@@ -2,10 +2,16 @@
 # User Generated Cyberlaw
 # Commons Regulation
 
+As you say, Fair Use Best Practices reflect a normative stance; a shared understanding regarding the appropriate scope of fair use within a particular community regarding a particular area of practice. 
+
 ## Taking Users' Legal Agency to the Next Level
 ## Or how to incorporate Users preferences in stringent IP doctrine
 
 ## Presumptions
+* The problematic situation is not that where there is a group, librarians, script writers, etc. it's the case where there is no group initially. In other words, these are situation where there is no real "best practice" that exists ex ante. In other words, the best practice needs to be created. This is User Generated Regulation. 
+* The point about the commons: it is like a knowledge commons, but an organizational commons. 
+* In some cases, we don't have a policy 
+* it is a situation that needs to bear the fruit of commons regulation, and there is no basis for group agency. 
 * Online Social Activism is not just Online Social Activism, it is political activism. They are not just private regulation or private policy making, or community activism or self regulation. They are a form 
 * It's not sufficiently interesting to say that the guidelines and terms and policies of OSPs should be written in Copyright law or change policy, because many have said this before
 * I wouldn't want to give such power to Google and Facebook. YUCK. Make them change policy for real. 
@@ -54,3 +60,9 @@ Use the power of the OSP to grant an organizational infrastructure to user decis
 this will buttress the rights of OSPs in front of government. 
 
 #### The Story of the public repository TOS
+
+
+#bibliography
+it's not custom. it's decision. there is no custom here. 
+Julia Black, Decentring Regulation: Understanding the Role of Regulation and Self-Regulation in a "Post-Regulatory" World, in 54 CURRENT LEGAL PROBLEMS 103, 116 (M. D. A. Freeman ed., 2002). Black refers to the OECD definition of self-regulation as the "process by which an organized group regulates the behavior of its members", see Id. at note 41.
+73 See Jennifer E. Rothman, Best Intentions: Reconsidering Best Practices Statements in the Context off Fair Use and Copyright Law, 57 J. COPYRIGHT SOC'Y U.S.A 371 (2010) ("Rothman, Best Intentions"); Jenifer E. Rothman, The Questionable Use of Custom in Intellectual Property, 93 VIR. L. REV. 1899, 1946-1980 (2007) ("Rothman, Use of Custom"); Ira P. Robbins, Best Practices on "Best Practices": Legal Education and Beyond, 16 CLINICAL L. REV. 269, 289 (2009); Jay Rosenthal, Best Practices, 57 J. COPYRIGHT SOC'Y U.S.A 389 (2010).
