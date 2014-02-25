@@ -52,19 +52,31 @@ Use the power of the OSP to grant an organizational infrastructure to user decis
     1. to create a decision-making super-structure
     2. To have a clear policy about how to accept user and implement user change
     3. Broadcast power of changes + Continuous access to current policy and ongoing discussion.
+    4. Take into consideration all stake holders. If there is a clear reason to prefer one stakeholder, the policy needs to include a part that explains why and the OSP should be clear about it. 
+    5. Take into consideration all jurisdictions
+    6. The default: General public. Commons production. Access. The argument is that non-users can only be represented by the OSP and he needs to. 
 2. The decision power of users?
     1. Ongoing. Like every content, policy content. 
     2. Meritocratic, or based on activity level or any other built in hierarchy.  
     3. Not open and shut for participation but always open. 
         1. not like mozilla or wikipedia
-        2. 
+3. How will formal law and courts help: Standardize good policies to make the be used across the board. 
+4. 
+Advantages: Disruptive websites in policies that users prefer.
+
 
 ## Use Cases
 ### Fair Use in Copyright
 ### "Fair Use" in TM
+ So what about copyright infringement? In the related Hacker News thread, a number of the projects' authors weigh in on the censorship, making persuasive cases that they software did not infringe on any of Whatsapp's copyrights -- rather, these were tools that made use of the Whatsapp API, were proof-of-concept security tools for Whatsapp, or, in one case, merely contained the string "whatsapp" in its sourcecode. 
+
 ### Take Down Policy
+
+ So what about copyright infringement? In the related Hacker News thread, a number of the projects' authors weigh in on the censorship, making persuasive cases that they software did not infringe on any of Whatsapp's copyrights -- rather, these were tools that made use of the Whatsapp API, were proof-of-concept security tools for Whatsapp, or, in one case, merely contained the string "whatsapp" in its sourcecode. 
+ 
+ 
 ### TM Take down policy
-### Account ownership policy
+### Account ownership policy and disputes
 ### User IP Policy
 ### 
 ### Cyber Security and Information Requests from Government
