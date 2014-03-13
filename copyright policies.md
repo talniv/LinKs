@@ -26,3 +26,19 @@ Do I own the copyright to content that I filmed on my own camcorder or phone fro
 2. Someone is posting unauthorized images of my child who is a minor.
 
 those can't be the top most questions that are relevant to copyright
+
+4. facebook Copyright assets presented as "brands" (policy specified in a brand resources page)
+5. https://www.facebook.com/legal/terms - the treatment of the users' copyright:
+
+**Sharing Your Content and Information**
+
+You own all of the content and information you post on Facebook, and you can control how it is shared through your privacy and application settings. In addition:
+
+    For content that is covered by intellectual property rights, like photos and videos (IP content), you specifically give us the following permission, subject to your privacy and application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Facebook (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
+    When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
+    When you use an application, the application may ask for your permission to access your content and information as well as content and information that others have shared with you.  We require applications to respect your privacy, and your agreement with that application will control how the application can use, store, and transfer that content and information.  (To learn more about Platform, including how you can control what information other people may share with applications, read our Data Use Policy and Platform Page.)
+    When you publish content or information using the Public setting, it means that you are allowing everyone, including people off of Facebook, to access and use that information, and to associate it with you (i.e., your name and profile picture).
+    We always appreciate your feedback or other suggestions about Facebook, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them).
+    
+    6. application settings page doesn't, in fact, treat copyrightable information but "App Settings
+On Facebook, your name, profile picture, cover photo, gender, networks, username, and user id are always publicly available, including to apps (Learn Why). Apps also have access to your friends list and any information you choose to make public." https://www.facebook.com/settings/?tab=applications
