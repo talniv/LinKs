@@ -45,3 +45,5 @@ On Facebook, your name, profile picture, cover photo, gender, networks, username
 
 7. FB platform Policy
 https://developers.facebook.com/policy/
+
+facebook says nothing about the content of the platform developer. It only talks about its content and 3rd party content. What I believe that entails is that it means that FB intends that the content policy in the standard TOS is what applies. It has nothing to add. 
