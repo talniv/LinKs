@@ -42,3 +42,6 @@ You own all of the content and information you post on Facebook, and you can con
     
     6. application settings page doesn't, in fact, treat copyrightable information but "App Settings
 On Facebook, your name, profile picture, cover photo, gender, networks, username, and user id are always publicly available, including to apps (Learn Why). Apps also have access to your friends list and any information you choose to make public." https://www.facebook.com/settings/?tab=applications
+
+7. FB platform Policy
+https://developers.facebook.com/policy/
