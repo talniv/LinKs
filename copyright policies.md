@@ -44,9 +44,16 @@ You own all of the content and information you post on Facebook, and you can con
     When you use an application, the application may ask for your permission to access your content and information as well as content and information that others have shared with you.  We require applications to respect your privacy, and your agreement with that application will control how the application can use, store, and transfer that content and information.  (To learn more about Platform, including how you can control what information other people may share with applications, read our Data Use Policy and Platform Page.)
     When you publish content or information using the Public setting, it means that you are allowing everyone, including people off of Facebook, to access and use that information, and to associate it with you (i.e., your name and profile picture).
     We always appreciate your feedback or other suggestions about Facebook, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them).
+
+other references in the TOS relevant to copyright:
+*  By "content" we mean anything you or other users post on Facebook that would not be included in the definition of information.
+*   By "use" we mean use, run, copy, publicly perform or display, distribute, modify, translate, and create derivative works of.
+*   Facebook Brand Resources: These guidelines outline the policies that apply to use of Facebook trademarks, logos and screenshots.
+*   How to Report Claims of Intellectual Property Infringement
     
     6. application settings page doesn't, in fact, treat copyrightable information but "App Settings
 On Facebook, your name, profile picture, cover photo, gender, networks, username, and user id are always publicly available, including to apps (Learn Why). Apps also have access to your friends list and any information you choose to make public." https://www.facebook.com/settings/?tab=applications
+
 
 7. FB platform Policy
 https://developers.facebook.com/policy/
