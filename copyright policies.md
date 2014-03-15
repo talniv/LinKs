@@ -75,3 +75,21 @@ a. Some areas of the Service allow Subscribers to post content such as data and 
 b. In connection with your Subscriber Content, Subscriber affirms, represents and warrants that the Subscriber Content and Atlassian's use thereof as contemplated by this Agreement and the Service will not violate any law or infringe any rights of any third party, including but not limited to any intellectual property rights and privacy rights. Atlassian takes no responsibility and assumes no liability for any Subscriber Content that Subscriber or any other subscribers, users or third party posts or sends over the Service. Subscriber shall be solely responsible for its Subscriber Content. Atlassian retains the right, in its sole discretion, to delete or remove any Subscriber Content at any time and with or without notice.
 
 * shirking off of responsibility
+* 
+# yelp tos
+Using the Site
+
+    Eligibility
+
+    To access or use the Site, you must be 18 years or older and have the requisite power and authority to enter into these Terms. You may not access or use the Site if you are a competitor of ours or if we have previously banned you from the Site or closed your account.
+    Permission to Use the Site
+
+    We grant you permission to use the Site subject to the restrictions in these Terms. Your use of the Site is at your own risk, including the risk that you might be exposed to Content that is offensive, indecent, inaccurate, objectionable, or otherwise inappropriate.
+    Site Availability
+
+    The Site may be modified, updated, interrupted, suspended or discontinued at any time without notice or liability.
+    User Accounts
+
+    You must create an account and provide certain information about yourself in order to use some of the features that are offered through the Site. You are responsible for maintaining the confidentiality of your account password. You are also responsible for all activities that occur in connection with your account. You agree to notify us immediately of any unauthorized use of your account. We reserve the right to close your account at any time for any or no reason.
+    
+    * we reserve the right to close your account at any time for any or no reason.
