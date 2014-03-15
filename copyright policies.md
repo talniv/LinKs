@@ -59,3 +59,19 @@ On Facebook, your name, profile picture, cover photo, gender, networks, username
 https://developers.facebook.com/policy/
 
 facebook says nothing about the content of the platform developer. It only talks about its content and 3rd party content. What I believe that entails is that it means that FB intends that the content policy in the standard TOS is what applies. It has nothing to add. 
+
+
+# Altassian EULA
+“Feedback” means any feedback, comments, suggestions or materials (including, to the extent disclosed to Atlassian, any End User Modifications, but excluding End User Plug-ins) that End User may provide to Atlassian about or in connection
+with the Products, including any ideas, concepts, know-how or techniques contained therein. End User may provide Feedback in connection with Maintenance and otherwise. End User hereby grants Atlassian a worldwide, royalty-free, non-exclusive, perpetual and irrevocable license to use, copy, modify and otherwise exploit the Feedback for any purpose, including incorporating or implementing the Feedback in the Products. End User agrees that Atlassian may exploit all Feedback without any restriction or obligation on account of intellectual property rights or otherwise. For clarity, no Feedback will be deemed End User’s Confidential Information, and nothing in this Agreement (including Section 8 (Confidentiality)) limits Atlassian’s right to independently use, develop, evaluate, or market products, whether incorporating Feedback or otherwise.
+1. Called feedback, but really is every code that is put up there
+2. 
+
+# Altassian TOS
+3.8. Subscriber Content.
+
+a. Some areas of the Service allow Subscribers to post content such as data and other content or information (any such materials a Subscriber submits, posts, displays, or otherwise makes available on the Service "Subscriber Content"). Subscriber retains ownership of your Subscriber Content.
+
+b. In connection with your Subscriber Content, Subscriber affirms, represents and warrants that the Subscriber Content and Atlassian's use thereof as contemplated by this Agreement and the Service will not violate any law or infringe any rights of any third party, including but not limited to any intellectual property rights and privacy rights. Atlassian takes no responsibility and assumes no liability for any Subscriber Content that Subscriber or any other subscribers, users or third party posts or sends over the Service. Subscriber shall be solely responsible for its Subscriber Content. Atlassian retains the right, in its sole discretion, to delete or remove any Subscriber Content at any time and with or without notice.
+
+* shirking off of responsibility
